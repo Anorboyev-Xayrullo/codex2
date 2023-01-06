@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 28px;
+    font-family: 'Outfit', sans-serif;
+
+}
+.gul{ 
+ display: flex;
+ 
+
+}
+.uk{
+  display: flex;
+  margin-top: 17px;
+}
+.about{
+margin-left: 44px;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 16px;
+letter-spacing: 0.48px;
+
+color: #222222;
+
+}
+.ikon{
+  margin-left: 130px;
+  margin-top: 50px;
+}
+#iko{
+  margin-left: 20px;
+}
+.view{
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 14px;
+text-align: center;
+color: #FFFFFF;
+  margin-left: 29px;
+  background: #2F2F2F;
+border-radius: 20px;
+padding: 11px 15px 15px 15px;
+}
+
+.text{
+  
+font-family: 'Outfit';
+font-weight: 400;
+font-size: 13px;
+line-height: 14px;
+letter-spacing: 0.48px;
+color: #82CBAC;
+
+}
+
+.change{
+  
+font-family: 'Outfit';
+font-weight: 400;
+font-size: 64px;
+line-height: 64px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+margin-left: 120px;
+}
+.tab{
+  font-family: 'Outfit';
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+
+}
+.let{
+ 
+  margin-top: 240px;
+ 
+}
+.ff{
+  display: flex;
+  margin-top: 241px;
+}
+
+.p-text{
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 64px;
+text-align: center;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+margin-left: 50px;
+}
+
+
+.change{
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+margin-top: 20px;
+display: flex;
+}
+.btn1{
+  background: #2F2F2F;
+border: 1px solid #2F2F2F;
+border-radius: 30px;
+padding: 10px 40px 10px 49px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 0.48px;
+
+color: #FFFFFF;
+
+border: 1px solid #2F2F2F;
+border-radius: 30px;
+
+
+}
+
+.btn2{
+  margin-left: 19px;
+ background-color:white ;
+border-radius: 30px;
+padding: 10px 40px 10px 40px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+
+}
+
+.hey{
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 64px;
+text-align: center;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+}
+
+.kia{
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+display: flex;
+}
+
+/* .jack{
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 0.48px;
+color: #FFFFFF; */
+
+.list{
+  
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 36px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+
+}
+.all{
+  margin-top: 180px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 36px;
+letter-spacing: 0.48px;
+text-transform: uppercase;
+color: #2F2F2F;
+}
+.artist{
+  margin-top: 111px;
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+letter-spacing: 0.48px;
+
+color: #FF7F96;
+
+}
+.quam{
+  font-family: 'Outfit';
+font-weight: 400;
+font-size: 36px;
+line-height: 36px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+
+}
+.parogrov{
+  
+font-family: 'Outfit';
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+margin-top: 30px;
+}
+.usa{
+  border: none;
+background: #82CBAC;
+border-radius: 30px;
+padding: 2px 20px;
+margin-top: 100px;
+}
+.usa1{
+  border: none;
+  background: #cb82b0;
+  border-radius: 30px;
+  padding: 2px 20px;
+  }
+  .usa2{
+    border: none;
+    background: #cbcb82;
+    border-radius: 30px;
+    padding: 2px 20px;
+   }
+
+  
+
